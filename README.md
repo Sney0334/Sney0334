@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Reddy Sai Snehith</h1>
-<h3 align="center">🧬 I am an indian web developer living in Barcelona. After my graduation in Mechanical Engineering (2019) I was working in a couple of companies but I started to have an interest towards Web Development, so in 2021 I decided I wanted a change in my life and I enrolled in a WebDev bootcamp in Ironhack. Fast forward half a year, I can describe myself as a passionate developer who loves coding, web design and enjoys learning new languages 🖥️</h3>
+<h3 align="center">🧬 I am an indian web developer living in Barcelona. After my graduation in Mechanical Engineering (2019) I was working in a company as a QA Manual tester but I started to have an interest towards Web Development, so in 2021 I decided I wanted a change in my life and I enrolled in a WebDev bootcamp in Ironhack. Fast forward half a year, I can describe myself as a passionate developer who loves coding, web design and enjoys learning new languages 🖥️</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sney0334&label=Profile%20views&color=0e75b6&style=flat" alt="sney0334" /> </p>
